@@ -80,3 +80,7 @@ You can modify the following parameters in the code:
 ## License
 
 This project is open source and available for educational purposes.
+
+## Video demo
+
+https://www.youtube.com/watch?v=LeCxggS_f8w
